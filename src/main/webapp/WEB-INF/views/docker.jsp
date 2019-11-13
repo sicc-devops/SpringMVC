@@ -9,6 +9,9 @@
 <h1>
 	this is docker III~!!
 </h1>
+<h1>
+	this is sample
+</h1>
 
 <P>  The time on the server is ${serverTime}. </P>
 <a href="/"><img src="/img/c3.PNG"></a>
