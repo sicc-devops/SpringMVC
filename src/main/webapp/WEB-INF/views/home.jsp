@@ -7,9 +7,8 @@
 </head>
 <body>
 <h1>Hello world~!!!!</h1>
-<p>it's different~</p>
-<p>too different~</p>
-<p>many different~</p>
+<p>version: S001</p>
+
 
 <P>  The time on the server is ${serverTime}. </P>
 <a href="./docker"><img src="/img/c2.PNG"></a>
