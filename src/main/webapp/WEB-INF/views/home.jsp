@@ -12,7 +12,7 @@
 <p>version: S003</p>
 <p>version: S004</p>
 <p>version: S005</p>
-
+<p>version: S006</p>
 
 <P>  The time on the server is ${serverTime}. </P>
 <a href="./docker"><img src="/img/c2.PNG"></a>
