@@ -14,6 +14,6 @@
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
-<a href="/"><img src="/img/c3.PNG"></a>
+<a href="/"><img src="<%=request.getContextPath()%>/img/c3.PNG"></a>
 </body>
 </html>

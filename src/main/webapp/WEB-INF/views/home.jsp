@@ -15,6 +15,6 @@
 <p>version: S006-1</p>
 
 <P>  The time on the server is ${serverTime}. </P>
-<a href="./docker"><img src="/img/c2.PNG"></a>
+<a href="./docker"><img src="<%=request.getContextPath()%>/img/c2.PNG"></a>
 </body>
 </html>
